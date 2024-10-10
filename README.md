@@ -1,5 +1,7 @@
-# Vue 3 + Vite
+En este proyecto, tuvimos que transformar un proyecto desde HTML y CSS a VUE, creando variables e interpolándolas según corresponda en el componenete Template.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Para crear el proyecto VUE lo hicimos utilizando Vite.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Para visualizar el resultado final, visita el siguiente enlace:
+
+https://vercel.live/link/desafio-introduccion-vuejs.vercel.app
