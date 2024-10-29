@@ -4,4 +4,4 @@ Para crear el proyecto VUE lo hicimos utilizando Vite.
 
 Para visualizar el resultado final, visita el siguiente enlace:
 
-https://vercel.live/link/desafio-introduccion-vuejs.vercel.app
+https://desafio-introduccion-vuejs.vercel.app/
